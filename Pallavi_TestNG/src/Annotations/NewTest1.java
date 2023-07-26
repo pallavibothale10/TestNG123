@@ -16,6 +16,8 @@ public class NewTest1 {
   @Test
   public void f() {
 	  System.out.println("F test class");
+		  System.out.println("New Changes");
+
   }
   //1.Before Suite
   @BeforeSuite
